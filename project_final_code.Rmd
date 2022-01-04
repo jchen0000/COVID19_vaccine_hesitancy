@@ -1,0 +1,16 @@
+---
+title: "project final code"
+author: "Jiaqi Chen"
+date: "1/3/2022"
+output: html_document
+---
+
+```{r}
+library(tidyverse)
+library(readr)
+```
+
+```{r}
+
+```
+
